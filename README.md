@@ -48,3 +48,14 @@ Kolom yang memiliki nilai Null beserta tipe datanya:
 
 Dataset mempunyai nilai outliers pada feature.
 ![Outlier](https://github.com/opanR/Dicoding_WaterPredictiveAnalytics/blob/main/Outlier.png)
+### Variabel-variabel pada dataset adalah sebagai berikut:
+> 1. pH:  pH air (0 - 14).
+> 2. Kekerasan (Hardness): Kapasitas air untuk mengendapkan sabun dalam mg/L.
+> 3. Padatan(Solids): Total padatan terlarut dalma ppm.
+> 4. Kloramin: Jumlah Kloramin dalam ppm.
+> 5. Sulfat: Jumlah Sulfat yang terlarut dalam mg/L.
+> 6. Konduktivitas: Konduktivitas listrik air dalam μS/cm.
+> 7. Karbon_organik: Jumlah karbon organik dalam ppm.
+> 8. Trihalomethanes: Jumlah Trihalomethanes dalam μg/L.
+> 9. Kekeruhan: Ukuran sifat air yang memancarkan cahaya
+> 10. Potabilitas: Menunjukkan apakah air aman untuk dikonsumsi manusia. Dapat diminum atau  Tidak dapat diminum 
