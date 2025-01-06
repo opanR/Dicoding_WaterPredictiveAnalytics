@@ -22,4 +22,26 @@ Air merupakan kebutuhan yang sangat mendasar bagi manusia. Tubuh manusia membutu
 - Menggunakan beberapa algoritma machine learning seperti SVC, Random Forest,KNN Untuk memprediksi kelayakan air
 - Membandingkan performa model dan memilih model terbaik 
 ## 3.Data Understanding
-Dataset yang digunakan berasal dari [kaggle](https://www.kaggle.com/datasets/adityakadiwal/water-potability). Dataset ini berisi informasi tentang pH air,Hardness,Tingkat Kekentalan air,Kandungan Kloramin,Sulfate,Conductivity, Organic_carbon,Trihalometana,Kekeruhan
+Dataset yang digunakan berasal dari [kaggle](https://www.kaggle.com/datasets/adityakadiwal/water-potability). Dataset ini berisi informasi tentang pH air,Hardness,Tingkat Kekentalan air,Kandungan Kloramin,Sulfate,Conductivity, Organic_carbon,Trihalometana,Kekeruhan dan kelayakan
+
+Dataset memiliki jumlah 3276 baris dan 10 kolom.
+
+|#| Column | Dtype |
+| ------ | ------ |------ |
+| 1 | ph                |float64|
+| 2 | Hardness         |float64|
+| 3 | Solids            |float64|
+| 4 | Chloramines |float64|
+| 5 | Sulfate           |float64|
+| 6 | Conductivity      |float64|
+| 7 | Organic_carbon |float64|
+| 8 | Trihalomethanes   |float64|
+| 9 | Turbidity         |float64|
+| 10 | Potability        |float64|
+Dataset mempunyai beberapa fitur yang terdapat missing value atau NaN.
+Kolom yang memiliki nilai Null beserta tipe datanya:
+|Column|  Tipe Data|  Jumlah Null|
+| ------ | ------ |------ |
+|ph              |  float64          |491|
+|Sulfate          | float64          |781|
+|Trihalomethanes   |float64          |162|
