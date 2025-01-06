@@ -45,3 +45,6 @@ Kolom yang memiliki nilai Null beserta tipe datanya:
 |ph              |  float64          |491|
 |Sulfate          | float64          |781|
 |Trihalomethanes   |float64          |162|
+
+Dataset mempunyai nilai outliers pada feature.
+![Outlier](https://github.com/opanR/Dicoding_WaterPredictiveAnalytics/blob/main/Outlier.png)
