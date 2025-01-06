@@ -18,3 +18,8 @@ Air merupakan kebutuhan yang sangat mendasar bagi manusia. Tubuh manusia membutu
 - Membangun model machine learning yang dapat memprediksi layak tidaknya air minum dikonsusmsi
 - Mengidentifikasi parameter yang paling berpengaruh dalam menentukan kelayakan air minum
 - Meningkatkan akurasi model prediksi melalui hyperparameter tuning dan teknik machine learning yang tepat.
+### Solution statements
+- Menggunakan beberapa algoritma machine learning seperti SVC, Random Forest,KNN Untuk memprediksi kelayakan air
+- Membandingkan performa model dan memilih model terbaik 
+## 3.Data Understanding
+Dataset yang digunakan berasal dari [kaggle](https://www.kaggle.com/datasets/adityakadiwal/water-potability). Dataset ini berisi informasi tentang pH air,Hardness,Tingkat Kekentalan air,Kandungan Kloramin,Sulfate,Conductivity, Organic_carbon,Trihalometana,Kekeruhan
