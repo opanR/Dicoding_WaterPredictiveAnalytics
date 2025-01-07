@@ -66,3 +66,4 @@ Dataset mempunyai nilai outliers pada feature.
 ![Multivariate Analysis](https://github.com/opanR/Dicoding_WaterPredictiveAnalytics/blob/main/Lakukan%20EDA%20-%20Multivariate%20Analysis.png)
 ### EDA - Matriks Korelasi Antar Kolom
 ![Korelasi Antar Kolom](https://github.com/opanR/Dicoding_WaterPredictiveAnalytics/blob/main/Matriks%20Korelasi%20Antar%20Kolom.png)
+
