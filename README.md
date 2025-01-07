@@ -59,3 +59,10 @@ Dataset mempunyai nilai outliers pada feature.
 > 8. Trihalomethanes: Jumlah Trihalomethanes dalam μg/L.
 > 9. Kekeruhan: Ukuran sifat air yang memancarkan cahaya
 > 10. Potabilitas: Menunjukkan apakah air aman untuk dikonsumsi manusia. Dapat diminum atau  Tidak dapat diminum 
+### Lakukan EDA (Exploratory Data Analysis)
+### EDA - Univariate Analysis
+![Univariate Analysis](https://github.com/opanR/Dicoding_WaterPredictiveAnalytics/blob/main/EDA%20-%20Univariate%20Analysis.png)
+### EDA - Multivariate Analysis
+![Multivariate Analysis](https://github.com/opanR/Dicoding_WaterPredictiveAnalytics/blob/main/Lakukan%20EDA%20-%20Multivariate%20Analysis.png)
+### EDA - Matriks Korelasi Antar Kolom
+![Korelasi Antar Kolom](https://github.com/opanR/Dicoding_WaterPredictiveAnalytics/blob/main/Matriks%20Korelasi%20Antar%20Kolom.png)
